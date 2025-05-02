@@ -44,7 +44,7 @@ defect_bbox: Опциональный bounding box (x,y,w,h) для фокуси
 
 filter_masks(masks, min_area_ratio=0.001, max_area_ratio=0.9): Фильтрация масок по размеру
 
-3. DefectDetectionPipeline
+# 3. DefectDetectionPipeline
 Объединяет классификацию и сегментацию.
 
 Методы:
